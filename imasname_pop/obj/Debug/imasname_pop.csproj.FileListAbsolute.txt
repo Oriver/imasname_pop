@@ -1,0 +1,9 @@
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\bin\Debug\imasname_pop.exe.config
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\bin\Debug\imasname_pop.exe
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\bin\Debug\imasname_pop.pdb
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\obj\Debug\imasname_pop.csprojResolveAssemblyReference.cache
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\obj\Debug\imasname_pop.Form1.resources
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\obj\Debug\imasname_pop.Properties.Resources.resources
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\obj\Debug\imasname_pop.csproj.GenerateResource.Cache
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\obj\Debug\imasname_pop.exe
+c:\users\ryo-okugawa\documents\visual studio 2015\Projects\imasname_pop\imasname_pop\obj\Debug\imasname_pop.pdb
